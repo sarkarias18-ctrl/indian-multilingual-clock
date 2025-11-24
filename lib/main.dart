@@ -120,3 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+Text(
+  'ਸਤ ਸ੍ਰੀ ਅਕਾਲ',
+  style: TextStyle(fontFamily: 'NotoSans', fontSize: 32),
+)
