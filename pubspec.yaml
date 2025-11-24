@@ -102,4 +102,5 @@ flutter:
           weight: 700
         - asset: assets/fonts/NotoSans-Italic.ttf
           style: italic
-          
+          flutter pub get
+flutter run
