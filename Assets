@@ -1,0 +1,15 @@
+assets/
+│
+├── icons/
+│   ├── sun.png          # daytime sun icon
+│   ├── sun_alt.png      # alternate sun (optional)
+│   ├── moon.png         # night moon icon
+│   ├── morning.png      # optional: morning icon
+│   ├── afternoon.png    # optional: afternoon icon
+│   ├── evening.png      # optional: evening icon
+│   └── night.png        # optional: night icon
+│
+└── fonts/
+    ├── NotoSans-Regular.ttf    # universal font for Indian languages
+    ├── NotoSans-Bold.ttf       # bold variant
+    └── NotoSans-Italic.ttf     # italic variant (optional)
